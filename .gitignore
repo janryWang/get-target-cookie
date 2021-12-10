@@ -24,4 +24,4 @@ doc-site
 .lerna-changelog
 .history
 .lint-report.log
-lib
+lib/
