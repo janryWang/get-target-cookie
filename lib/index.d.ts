@@ -1,4 +1,1 @@
-export declare const getCookie: (
-  target: string,
-  callback: (cookie: string) => void
-) => void
+export declare const getCookie: (target: string) => Promise<unknown>
